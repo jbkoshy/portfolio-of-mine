@@ -31,3 +31,5 @@ The following animation shows the web application's appearance and functionality
 
 # Technologies used
 HTML CSS
+
+# Link to deployed application
