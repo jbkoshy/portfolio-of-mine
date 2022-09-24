@@ -27,8 +27,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 # Mock-Up
 The following animation shows the web application's appearance and functionality:
-
-
+![02-advanced-css-homework-demo (1)](https://user-images.githubusercontent.com/112911066/192090399-51ef7a91-b83c-410f-9897-7106a3df9c50.gif)
 
 # Technologies used
 HTML CSS
