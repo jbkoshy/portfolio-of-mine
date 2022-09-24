@@ -27,7 +27,8 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 # Mock-Up
 The following animation shows the web application's appearance and functionality:
-<img src="/the-Coding-Boot-Camp-at-UT/UTA-VIRT-FSF-PT-09-2022-U-LOLC/raw/main/02-Advanced-CSS/02-Challenge/Assets/02-advanced-css-homework-demo.gif" alt="portfolio demo" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
+https://github.com/the-Coding-Boot-Camp-at-UT/UTA-VIRT-FSF-PT-09-2022-U-LOLC/raw/main/02-Advanced-CSS/02-Challenge/Assets/02-advanced-css-homework-demo.gif
 
 # Technologies used
 HTML CSS
