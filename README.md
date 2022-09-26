@@ -33,3 +33,4 @@ The following animation shows the web application's appearance and functionality
 HTML, CSS
 
 # Link to deployed application
+https://jbkoshy.github.io/portfolio-of-mine/
