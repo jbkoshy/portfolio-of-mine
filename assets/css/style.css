@@ -157,7 +157,7 @@ section {
 
 figcaption{
   position: absolute;
-  margin-left: 300px;
+  margin-left: 400px;
   margin-top: -15%;
   font-size: 30px;
   font-style: italic;
@@ -173,6 +173,11 @@ figcaption{
   grid-row-start: 1;
   grid-row-end: 1;
   position: relative; 
+  }
+
+  #horiseon {
+    width: 10%;
+    margin-left: 200px;
   }
 
   /*About section style*/
