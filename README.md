@@ -4,13 +4,14 @@ A portfolio of work can showcase your skills and talents to employers looking to
 With these points in mind, in this Challenge you’ll set yourself up for future success by applying the core skills you've recently learned: flexbox, CSS Grid Layout, media queries, and CSS variables. You'll get to practice your new skills while creating something that you'll use during your job search. It’s a win-win that you'll likely be grateful for in the future!
 
 # User Story
+```
 AS AN employer 
 I WANT to view a potential employee's deployed portfolio of work samples 
 SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
-
+```
 # Acceptance Criteria
 Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
-
+```
 GIVEN I need to sample a potential employee's previous work 
 WHEN I load their portfolio 
 THEN I am presented with the developer's name, a recent photo, and links to sections about them, their work, and how to contact them 
@@ -24,7 +25,7 @@ WHEN I click on the images of the applications
 THEN I am taken to that deployed application 
 WHEN I resize the page or view the site on various screens and devices 
 THEN I am presented with a responsive layout that adapts to my viewport
-
+```
 # Mock-Up
 The following animation shows the web application's appearance and functionality:
 ![02-advanced-css-homework-demo (1)](https://user-images.githubusercontent.com/112911066/192090399-51ef7a91-b83c-410f-9897-7106a3df9c50.gif)
